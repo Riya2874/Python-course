@@ -1,0 +1,8 @@
+name = input("enter your name: ")
+print(name)
+roll_number = input("enter your roll_number: ")
+print(roll_number)
+print(type(roll_number))
+roll_number = int(input("enter your roll_number: "))
+print(roll_number)
+print(type(roll_number))
